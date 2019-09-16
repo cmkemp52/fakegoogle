@@ -1,0 +1,45 @@
+* {
+    margin:0px;
+    font-size:14px;
+}
+
+
+li {
+    padding: 7px;
+    padding-top: 10px;
+    display: inline;
+    list-style: none;
+}
+
+div {
+    margin-top:100px;
+    display:flex;
+    justify-content:center;
+}
+.top_ul {
+    display: flex;
+    align-items: flex-start;
+}
+
+header {
+    padding-top: 10px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin: 0px;
+    width: 100%;
+    background-color:#EEEEEE;
+}
+
+.bottoml_ul {
+    float: left;
+    justify-content: flex-start;
+}
+.bottomr_ul {
+    float: right;
+    margin-right: 40px;
+}

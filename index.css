@@ -1,0 +1,16 @@
+
+body {
+    font-size: 100px;
+    text-align: center;
+    border: 3px solid green;
+}
+.top_ul {
+    display: flex;
+    align-items: flex-start;
+    list-style: none;
+}
+p {
+    font-size: 100px;
+    text-align: center;
+    border: 3px solid green;
+}
